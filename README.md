@@ -10,9 +10,9 @@
 
 ## 使用技術
 
-前端：React.js
-後端：Node.js(Express.js framework)
-資料庫：MongoDB(MongoDB Atlas)
+- 前端：React.js
+- 後端：Node.js(Express.js framework)
+- 資料庫：MongoDB(MongoDB Atlas)
 
 ## 學習成果
 
@@ -23,7 +23,7 @@
 
 ## 實際頁面
 
-![image](https://github.com/Alex900806/Photo-website/blob/main/demo_pictures/photo.webp)
-![image](https://github.com/Alex900806/Photo-website/blob/main/demo_pictures/photo2.webp)
-![image](https://github.com/Alex900806/Photo-website/blob/main/demo_pictures/photo3.webp)
-![image](https://github.com/Alex900806/Photo-website/blob/main/demo_pictures/photo3.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern2.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern3.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern4.webp)
