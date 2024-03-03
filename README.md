@@ -12,14 +12,14 @@
 
 - 前端：React.js
 - 後端：Node.js(Express.js framework)
-- 資料庫：MongoDB(MongoDB Atlas)
+- 資料庫：MongoDB(Mongoose / MongoDB Atlas)
 
 ## 學習成果
 
 - 學習使用 MERN 開發方式來建置平台（第一次）
 - 學習使用 Boostrap 當作模板快速幫網站建立樣式
 - 學習使用 axios 模組來進行前端與後端的串接
-- 學習使用 JWT 驗證機制，並使用 bcrypt 加密使用者的密碼，跟使用 joi 來驗證使用者輸入的資訊。
+- 學習使用 JWT 驗證機制，並使用 bcrypt 加密使用者的密碼，跟使用 joi 來驗證使用者輸入的資訊
 
 ## 實際頁面
 
