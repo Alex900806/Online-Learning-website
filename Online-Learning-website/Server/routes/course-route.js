@@ -1,5 +1,3 @@
-const { response } = require("express");
-
 const router = require("express").Router();
 const Course = require("../models").courseModel;
 const courseValidation = require("../validation").courseValidation;
