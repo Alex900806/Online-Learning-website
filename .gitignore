@@ -1,2 +1,3 @@
-client
-Online-Learning-website/Server/.env
+node_modules
+
+.env
