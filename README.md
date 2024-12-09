@@ -23,7 +23,7 @@
 
 ## 實際頁面
 
-![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern.webp)
-![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern2.webp)
-![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern3.webp)
-![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo_pictures/mern4.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo/mern.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo/mern2.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo/mern3.webp)
+![image](https://github.com/Alex900806/Online-Learning-website/blob/main/demo/mern4.webp)
